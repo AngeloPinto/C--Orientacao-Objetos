@@ -11,6 +11,12 @@ namespace CSharpOO
     {
         static void Main(string[] args)
         {
+            Departamento humanas = new Departamento();
+            humanas.Nome = "Departamento de Humanas";
+
+            Departamento exatas = new Departamento();
+            exatas.Nome = "Departamento de Exatas";
+
             Aluno joao = new Aluno();
             joao.setNome("Joãozinho da Silva");
             joao.setIdade(15);
@@ -37,6 +43,7 @@ namespace CSharpOO
             jose.AddAluno(joao);
             jose.AddAluno(rita);
             jose.ImprimirAlunos();
+            jose.Departamento = exatas;
             
 
             Professor maria = new Professor();
@@ -50,6 +57,11 @@ namespace CSharpOO
             maria.imprimir();
             maria.AddAluno(rita);
             maria.ImprimirAlunos();
+            maria.Departamento = humanas;
+
+
+            humanas.AddProfessor(maria);
+            exatas.AddProfessor(jose);
 
             ReadKey();
         }

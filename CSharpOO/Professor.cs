@@ -13,6 +13,13 @@ namespace CSharpOO
         private int _tipo;
         private int _bonus;
         public List<Aluno> alunos = new List<Aluno>();
+        private Departamento deparatamento = new Departamento();
+
+        public Departamento Departamento 
+        {
+            get => deparatamento;
+            set => deparatamento = value;
+        }
 
         public int Tipo 
         {
@@ -33,6 +40,7 @@ namespace CSharpOO
         }
 
         public void imprimir()
+
         {
             WriteLine("Nome: {0}", this.getNome());
             WriteLine("Idade: {0}", this.getIdade());
