@@ -10,6 +10,8 @@ namespace CSharpOO
     class Departamento
     {
         private string _nome;
+        public List<Professor> professores = new List<Professor>();
+        private Escola _escola = new Escola();
 
         public string Nome 
         {
@@ -17,7 +19,11 @@ namespace CSharpOO
             set => _nome = value;
         }
 
-        public List<Professor> professores = new List<Professor>();
+        public Escola Escola
+        {
+            get => _escola;
+            set => _escola = value;
+        }
 
         public void AddProfessor(Professor professor)
         {
