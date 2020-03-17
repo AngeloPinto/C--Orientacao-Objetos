@@ -1,0 +1,14 @@
+C:\Users\Angelo\source\repos\CSharpOO\CSharpOO\bin\Debug\CSharpOO.exe.config
+C:\Users\Angelo\source\repos\CSharpOO\CSharpOO\bin\Debug\CSharpOO.exe
+C:\Users\Angelo\source\repos\CSharpOO\CSharpOO\bin\Debug\CSharpOO.pdb
+C:\Users\Angelo\source\repos\CSharpOO\CSharpOO\obj\Debug\CSharpOO.csprojAssemblyReference.cache
+C:\Users\Angelo\source\repos\CSharpOO\CSharpOO\obj\Debug\CSharpOO.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\CSharpOO\CSharpOO\obj\Debug\CSharpOO.exe
+C:\Users\Angelo\source\repos\CSharpOO\CSharpOO\obj\Debug\CSharpOO.pdb
+C:\Projects\Visual Studio\CSharp\CSharpOO\CSharpOO\bin\Debug\CSharpOO.exe.config
+C:\Projects\Visual Studio\CSharp\CSharpOO\CSharpOO\bin\Debug\CSharpOO.exe
+C:\Projects\Visual Studio\CSharp\CSharpOO\CSharpOO\bin\Debug\CSharpOO.pdb
+C:\Projects\Visual Studio\CSharp\CSharpOO\CSharpOO\obj\Debug\CSharpOO.csprojAssemblyReference.cache
+C:\Projects\Visual Studio\CSharp\CSharpOO\CSharpOO\obj\Debug\CSharpOO.csproj.CoreCompileInputs.cache
+C:\Projects\Visual Studio\CSharp\CSharpOO\CSharpOO\obj\Debug\CSharpOO.exe
+C:\Projects\Visual Studio\CSharp\CSharpOO\CSharpOO\obj\Debug\CSharpOO.pdb
